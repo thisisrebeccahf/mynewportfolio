@@ -1,12 +1,12 @@
 .header {
   font-family: 'Bahiana', cursive;
-  text-color: White;
+  color: White;
   transform-text: uppercase;
   text-align: center;
   background-image: url("http://s2.favim.com/orig/150912/-beautiful-blue-cool-Favim.com-3282862.gif"); 
  background-repeat:norepeat; background-attachment: fixed; background-size:cover;
-   width: .5em;
-   height: .25em;
+   width: 50%;
+   height: 50%;
 }
 
 .info {
