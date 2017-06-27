@@ -1,4 +1,11 @@
 
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #d7e1f2;
+  text-align: center;
+}
+
 .header {
   font-family: 'Bahiana', cursive;
   color: #dee4ed;
