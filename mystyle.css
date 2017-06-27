@@ -5,6 +5,9 @@
   text-align: center;
   background-image: url("http://s2.favim.com/orig/150912/-beautiful-blue-cool-Favim.com-3282862.gif"); 
  background-repeat:norepeat; background-attachment: fixed; background-size:cover;
+  background-position: center;
+  background-size: cover;
+  position: relative;
   width: 800px;
   height: 50%;
   border: 2px solid #4e76b2;
