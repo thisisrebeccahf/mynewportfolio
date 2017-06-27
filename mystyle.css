@@ -15,6 +15,10 @@
   overflow: hidden;
 }
 
+.BigNews {
+  font-weight: 200;
+}
+
 .info {
     font-family: 'Indie-Flower', cursive;
     background-color: White;
