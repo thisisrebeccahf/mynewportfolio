@@ -28,8 +28,19 @@ body {
 
 .info {
     font-family: 'Indie-Flower', cursive;
+   font-weight: 200;
     background-color: White;
     border: solid Black;
     width: 400px;
     height: 200px;
 }
+
+.update {
+    font-family: 'Cambria';
+    font-weight: 100;
+    background-color: #ffeebf;
+    border: solid Black;
+    width: 300px;
+    height: 150px;
+}
+
