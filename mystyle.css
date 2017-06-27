@@ -1,3 +1,11 @@
-* {
-    font-family: 'Indie Flower', cursive;
-    }
+.header {
+  font-family: 'Bahiana', cursive;
+  transform-text: uppercase;
+  background-image: url("http://s2.favim.com/orig/150912/-beautiful-blue-cool-Favim.com-3282862.gif"); 
+ background-repeat:norepeat; background-attachment: fixed; background-size:cover
+}
+
+.info {
+    font-family: 'Indie-Flower', cursive;
+    background-color: White;
+}
