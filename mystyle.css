@@ -33,6 +33,7 @@ body {
     border: solid Black;
     width: 400px;
     height: 200px;
+   margin: auto;
 }
 
 .update {
