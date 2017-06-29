@@ -1,7 +1,6 @@
 
 body {
   padding: 0;
-  margin: 150px;
   background-color: #d7e1f2;
   text-align: center;
 }
@@ -33,7 +32,7 @@ body {
     border: solid Black;
     width: 400px;
     height: 200px;
-   margin: auto;
+   margin: 150px, auto;
 }
 
 .update {
@@ -45,8 +44,11 @@ body {
     height: 200px;
 }
 
+ul {
+  border: 2px; 
+}
+
 li {
-   border: 2px;
    display: inline;
    font-family: 'Droid Sans Mono', monospace;
 }
