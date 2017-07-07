@@ -47,6 +47,7 @@ body {
   border: solid Black;
   background-color: White;
   margin: auto;
+  padding: 30px;
 }
 
 ul {
@@ -56,4 +57,5 @@ ul {
 li {
    display: inline;
    font-family: 'Droid Sans Mono', monospace;
+  padding: 15px;
 }
