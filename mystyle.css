@@ -39,8 +39,10 @@ body {
     font-weight: 100;
     background-color: #ffeebf;
     border: solid Black;
-    width: 80%;
-    height: 200px;
+    width: 90%;
+    height: 31%;
+   allign: center;
+  
 }
 
 .Cond {
