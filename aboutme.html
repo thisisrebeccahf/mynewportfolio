@@ -22,6 +22,16 @@
     <a href= "CoreFour.html"> Core Four </a> 
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
  </div>
+ <script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
  
  <div id="col1" style="float:left; margin:0; width:50%;">
  <div class="info">
