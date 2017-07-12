@@ -86,7 +86,7 @@ body {
     display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (width: 100%) {
   .bar a:not(:first-child) {display: none;}
   .bat a.icon {
     float: right;
