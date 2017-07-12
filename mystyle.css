@@ -65,7 +65,7 @@ body {
 }
 
 /* Style the links inside the navigation bar */
-.Bar a {
+.bar a {
     float: left;
     display: block;
     color: #f2f2f2;
@@ -76,17 +76,15 @@ body {
 }
 
 /* Change the color of links on hover */
-.Bar a:hover {
+.bar a:hover {
     background-color: #e8ccff;
     color: White;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
-.Bar .icon {
+.bar .icon {
     display: none;
 }
-
-
 
 
 
