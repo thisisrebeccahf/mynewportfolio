@@ -78,7 +78,8 @@ body {
 /* Change the color of links on hover */
 .bar a:hover {
     background-color: #e8ccff;
-    color: White;
+    color: #746ba3;
+    text-shadow: 3px 2px #302c44;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
